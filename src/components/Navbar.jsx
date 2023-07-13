@@ -31,7 +31,7 @@ function Navbar() {
       <nav className={sticky ? "sticky-nav" : ""}>
         <div className="navbar">
           <Link to="/">
-            <p onClick={goTop}>COINDOM</p>
+            <p onClick={goTop}>COINTRKR</p>
           </Link>
           <ul>
             <li>
@@ -48,8 +48,9 @@ function Navbar() {
             </li>
           </ul>
           <span>
-            <i className="fa-brands fa-twitter"></i>
-            <i className="fa-brands fa-discord"></i>
+          <a href="https://twitter.com/arvrtise"><i className="fa-brands fa-twitter"></i></a>
+          <a href="https://discord.gg/nfAmqTGNAU"><i className="fa-brands fa-discord"></i></a>
+  
             {/* mobile */}
             <i
               onClick={openMobile}

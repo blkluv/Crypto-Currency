@@ -14,7 +14,7 @@ function Join() {
                 join us via <br /> <span>discord</span>
               </h2>
               <p>Invest and manage all your crypto at one place.</p>
-              <a rel="noreferrer" target="_blank" href="https://discord.com/">
+              <a rel="noreferrer" target="_blank" href="https://discord.gg/nfAmqTGNAU">
                 Join via Discord
               </a>
             </div>
